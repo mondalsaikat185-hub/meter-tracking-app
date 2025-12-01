@@ -1,0 +1,6 @@
+```txt
+# requirements.txt এর কন্টেন্ট
+streamlit
+pandas
+gspread
+```
