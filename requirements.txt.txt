@@ -1,4 +1,0 @@
-# requirements.txt ফাইলের কন্টেন্ট
-streamlit
-pandas
-gspread
